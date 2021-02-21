@@ -22,6 +22,7 @@ The analysis of the election show that:
 -	Raymond Anthony Doane received 3.1% of the vote and 11,606 number of votes
 5.	The winner of the election was:
 -	Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
+
 ![Results in Terminal View](https://github.com/fletchrk/Election_Analysis/blob/main/Analysis/Results%20in%20Terminal%20View.PNG)
 ## Election-Audit Summary
 The following steps were taken to provide the results of the audit:
