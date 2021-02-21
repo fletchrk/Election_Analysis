@@ -23,6 +23,7 @@ The analysis of the election show that:
 5.	The winner of the election was:
 -	Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
+The Results of the code in Terminal View:
 ![Results in Terminal View](https://github.com/fletchrk/Election_Analysis/blob/main/Analysis/Results%20in%20Terminal%20View.PNG)
 ## Election-Audit Summary
 The following steps were taken to provide the results of the audit:
